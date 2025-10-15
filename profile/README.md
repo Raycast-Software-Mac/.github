@@ -1,4 +1,4 @@
-# Raycast – Powerful Command Launcher For macOS  
+# Raycast – Powerful Command Launcher  
 
 <div align="center">
   <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1yuCLw.img?w=768&h=768&m=6" width="250"/>
